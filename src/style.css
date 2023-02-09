@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+#excuse {
+  background-color: rgb(234, 118, 162);
+  font-family: cursive;
+  text-align: center;
+  border-radius: 10%;
+  border-style: solid;
+  width: 600px;
+  height: 50px;
+  font-size: large;
+  margin: auto;
+}
+
+body {
+  background-color: rgb(76, 39, 78);
+}
+
+h1 {
+  font-size: 1cm;
+  text-decoration: solid;
+  margin-bottom: 30px;
+  text-align: center;
+}
